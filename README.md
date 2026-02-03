@@ -93,14 +93,6 @@ I’m currently training my chakra in **Web Development, Java & Backend Engineer
 
 ---
 
-## 🧭 Mission Board (Current Goals)
-
-┌─────────────────────────────────────────────┐
-│ 🥷 Mission 1: Master Java & Spring Boot │
-│ ⚔️ Mission 2: Build Resume-Level Projects │
-│ 🧠 Mission 3: Crack DSA Patterns │
-│ 🏆 Final Mission: Become Placement-Ready │
-└─────────────────────────────────────────────┘
 ## 📡 Call the Ninja (Connect With Me)
 
 <div align="center">
