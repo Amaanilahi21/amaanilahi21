@@ -14,7 +14,8 @@
 
 <img align="right" width=260 src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
-Hey there! I'm **Amaan Ilahi**, a Computer Science student walking the **Nindo (Ninja Path)** of software development.
+Hey there! I'm **Amaan Ilahi**, a Computer Science student walking the **Nindo (Ninja Path)**
+🔐 **Aspiring Cyber Security Enthusiast **
 
 Like Ninja Hattori, I believe:
 > *Speed matters. Discipline matters. But loyalty to clean code matters most.*
@@ -22,13 +23,22 @@ Like Ninja Hattori, I believe:
 I’m currently training my chakra in **Web Development, Java & Backend Engineering**, sharpening logic, patience, and problem-solving skills ⚡🧠
 
 ### 🌪️ My Ninja Scroll
-- 🌀 Training arc: **Java, DSA & Full-Stack Development**
+- 🌀 Training arc: **Java, DSA & Cyber Security**
 - 🧪 Secret mission: Building **industry-level real-world projects**
 - 📜 Side quests: Reading, movies & sports
 - 🥷 Strength: Consistency + fast learner
-- ☕ Weakness: Coffee (acceptable ninja flaw)
+- ☕ Weakness: Chai aur neend (acceptable ninja flaw)
 
 <br clear="right"/>
+
+## 🔐 Cyber Security Interests
+
+- 🕵️ Ethical Hacking & Penetration Testing  
+- 🌐 Web Application Security  
+- 🐧 Linux & System Internals  
+- 🧪 Vulnerability Analysis  
+- 🔑 Network & Application Security Basics  
+
 
 ---
 
@@ -69,6 +79,15 @@ I’m currently training my chakra in **Web Development, Java & Backend Engineer
 ![GitHub](https://img.shields.io/badge/GITHUB-121011?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
+## 🧰 Tools & Technologies
+
+- 🖥️ **Operating Systems:** Linux (Ubuntu/Kali), Windows  
+- 🔧 **Tools:** Nmap, Burp Suite, Wireshark (learning)  
+- 💻 **Languages:** C, C++, Java, Python, JavaScript  
+- 🌐 **Web:** HTML, CSS, React (for understanding web attacks)
 
 <br clear="right"/>
 
